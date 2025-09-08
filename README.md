@@ -1,5 +1,13 @@
 **URL Shortening Service - Backend Assignment**
 
+A lightweight, scalable URL shortening service built with Node.js, designed for high availability and
+comprehensive monitoring.
+
+- Routes, middleware, and core logic are separated into distinct modules
+- Modular design allows independent scaling and testing of components
+- Clear separation makes code easier to understand and modify
+
+
 <img width="1005" height="747" alt="Screenshot 2025-09-08 at 12 40 40 PM" src="https://github.com/user-attachments/assets/8ec9c4cb-b6a8-4a83-b661-c9b19241b42c" />
 
 <img width="996" height="739" alt="Screenshot 2025-09-08 at 12 41 12 PM" src="https://github.com/user-attachments/assets/3ff16f6d-fe24-4572-9aeb-0e84944958e5" />
